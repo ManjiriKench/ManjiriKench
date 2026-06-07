@@ -10,10 +10,10 @@ Whether it's developing AI-powered platforms, creating scalable web applications
 
 ## 🔭 Currently Working On
 
+- 🏥 **Building HLERS** — an ML-powered emergency hospital routing system that finds the best hospital for your emergency in real time,
+  based on ICU capacity, specialist availability, and live traffic — because Google Maps alone costs lives.
 - 📚 **NoteSwap** — A platform designed to simplify academic resource sharing among students.
 - 🤖 **PeerSkill AI** — An AI-powered platform focused on collaborative learning and skill development.
-- 🏥 **HLERS** — A technology-driven solution aimed at improving healthcare-related processes.
-- 🎯 **AI Skill Gap Analysis & Job Recommender** — Helping users identify skill gaps and discover relevant career opportunities.
 - 🌐 Building impactful web applications and expanding expertise in modern software development.
 
 ---
