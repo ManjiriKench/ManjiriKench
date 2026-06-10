@@ -1,6 +1,6 @@
-# 💫 Hi there, I'm Manjiri Kench 👋
+#  Hi there, I'm Manjiri Kench 
 
-🚀 Computer Science Engineering Student | AI Enthusiast | Full-Stack Developer | Problem Solver
+🚀 Computer Science Engineering Student | AI Enthusiast | Full-Stack Developer
 
 I'm a Computer Science Engineering student passionate about building technology that creates meaningful impact. I enjoy transforming ideas into practical solutions through **Artificial Intelligence, Full-Stack Development, Computer Vision, and Software Engineering**.
 
@@ -41,8 +41,6 @@ Whether it's developing AI-powered platforms, creating scalable web applications
 
 ## 🌱 Currently Learning
 
-- Advanced React and Modern Frontend Development
-- Backend Architecture and API Design
 - System Design Fundamentals
 - Software Engineering Best Practices
 - Cloud Computing and Scalable Deployments
